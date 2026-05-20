@@ -1,0 +1,9 @@
+tensorflow
+ultralytics
+sahi
+gradio
+opencv-python
+numpy
+pandas
+matplotlib
+jupyter
